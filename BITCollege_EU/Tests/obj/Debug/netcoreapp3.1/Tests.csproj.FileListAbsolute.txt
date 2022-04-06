@@ -1,0 +1,3 @@
+C:\Users\euscu\source\repos\BITCollege_EU\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+C:\Users\euscu\source\repos\BITCollege_EU\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+C:\Users\euscu\source\repos\BITCollege_EU\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache

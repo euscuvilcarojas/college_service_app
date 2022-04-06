@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZoY8DPlmAR/f6H3cRzKea8RuRzrdl12BfnsiE+4OKv7FSum/DC5J1NXzgHPuhntk9AEpD0SM67SqW8AkyZThg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\BITCollegeWindows\\BITCollegeWindows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\euscu\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

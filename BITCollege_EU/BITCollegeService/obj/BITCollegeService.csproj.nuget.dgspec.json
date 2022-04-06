@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\BITCollegeService\\BITCollegeService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\BITCollegeService\\BITCollegeService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\BITCollegeService\\BITCollegeService.csproj",
+        "projectName": "BITCollegeService",
+        "projectPath": "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\BITCollegeService\\BITCollegeService.csproj",
+        "packagesPath": "C:\\Users\\euscu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\BITCollegeService\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\euscu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\BITCollege_EU\\BITCollege_EU.csproj": {
+                "projectPath": "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\BITCollege_EU\\BITCollege_EU.csproj"
+              },
+              "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\Utility\\Utility.csproj": {
+                "projectPath": "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\Utility\\Utility.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.1.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\BITCollege_EU\\BITCollege_EU.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\BITCollege_EU\\BITCollege_EU.csproj",
+        "projectName": "BITCollege_EU",
+        "projectPath": "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\BITCollege_EU\\BITCollege_EU.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\Utility\\Utility.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\Utility\\Utility.csproj",
+        "projectName": "Utility",
+        "projectPath": "C:\\Users\\euscu\\source\\repos\\BITCollege_EU\\Utility\\Utility.csproj"
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    }
+  }
+}

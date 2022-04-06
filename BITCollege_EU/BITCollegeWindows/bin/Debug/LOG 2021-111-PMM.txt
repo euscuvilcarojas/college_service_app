@@ -1,0 +1,90 @@
+
+---------ERROR---------
+ File: 2021-111-PMM.xml
+ Program: <program>PMM</program>
+ Student Number: <student_no>88888888</student_no>
+ Course Number: <course_no>*</course_no>
+ Registration Number: <registration_no>2005</registration_no>
+ Type: <type>2</type>
+ Grade: 
+ Notes: <notes>***ERROR*** Incorrect number of Child Nodes</notes>
+ Nodes: 6
+ Incorrect amount of nodes on Input Files
+ -----------------------
+---------ERROR---------
+ File: 2021-111-PMM.xml
+ Program: <program>XX</program>
+ Student Number: <student_no>88888888</student_no>
+ Course Number: <course_no>*</course_no>
+ Registration Number: <registration_no>2005</registration_no>
+ Type: <type>2</type>
+ Grade: <grade>90</grade>
+ Notes: <notes>**ERROR*** Invalid Program Acronym</notes>
+ Nodes: 7
+ Incorrect program acronym in transaction element
+ -----------------------
+---------ERROR---------
+ File: 2021-111-PMM.xml
+ Program: <program>PMM</program>
+ Student Number: <student_no>88888888</student_no>
+ Course Number: <course_no>M-19999</course_no>
+ Registration Number: <registration_no>*</registration_no>
+ Type: <type>1</type>
+ Grade: <grade>@</grade>
+ Notes: <notes>***ERROR*** Invalid Grade Value</notes>
+ Nodes: 7
+ Incorrect grade in transaction - Grade is not a number or it is not <*>
+ -----------------------
+---------ERROR---------
+ File: 2021-111-PMM.xml
+ Program: <program>PMM</program>
+ Student Number: <student_no>88888888</student_no>
+ Course Number: <course_no>*</course_no>
+ Registration Number: <registration_no>2003</registration_no>
+ Type: <type>2</type>
+ Grade: <grade>999</grade>
+ Notes: <notes>**ERROR** Grade for Type 2 must be between 0 - 100</notes>
+ Nodes: 7
+ Grades does not correspond to the type of operation OR the grade is out of range [0 - 100]
+ -----------------------
+---------ERROR---------
+ File: 2021-111-PMM.xml
+ Program: <program>PMM</program>
+ Student Number: <student_no>88888888</student_no>
+ Course Number: <course_no>A-1999</course_no>
+ Registration Number: <registration_no>*</registration_no>
+ Type: <type>1</type>
+ Grade: <grade>100</grade>
+ Notes: <notes>***ERROR***  Grade for Type 1 should be a *</notes>
+ Nodes: 7
+ Grades does not correspond to the type of operation OR the grade is out of range [0 - 100]
+ -----------------------
+---------ERROR---------
+ File: 2021-111-PMM.xml
+ Program: <program>PMM</program>
+ Student Number: <student_no>88888888</student_no>
+ Course Number: <course_no>D-12345</course_no>
+ Registration Number: <registration_no>*</registration_no>
+ Type: <type>1</type>
+ Grade: <grade>*</grade>
+ Notes: <notes>***ERROR*** Course does not exist</notes>
+ Nodes: 7
+ Curse number does not correspond to operation type <2> OR does not exist within the database
+ -----------------------
+---------ERROR---------
+ File: 2021-111-PMM.xml
+ Program: <program>PMM</program>
+ Student Number: <student_no>88888888</student_no>
+ Course Number: <course_no>G-199995</course_no>
+ Registration Number: <registration_no>1000</registration_no>
+ Type: <type>2</type>
+ Grade: <grade>22</grade>
+ Notes: <notes>***ERROR*** Course for Type 2 should be a *</notes>
+ Nodes: 7
+ Registration number does not correspond to operation type<1> OR does not exist within the database
+ -----------------------
+ grade 57 applied to student 88888888 for registration 2003
+ grade 60 applied to student 88888888 for registration 2004
+ Sucessful Registration student 88888888 course G-199996
+ Sucessful Registration student 88888888 course G-199993
+ Sucessful Registration student 88888888 course G-199995

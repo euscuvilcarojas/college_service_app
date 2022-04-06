@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!-- Registration Grading file -->
+<student_update date="2021-04-17" program="VT" checksum="20021600">
+	<transaction>
+		<program>VT</program>
+		<student_no>10010800</student_no>
+		<course_no>*</course_no>
+		<registration_no>113</registration_no>
+		<type>2</type>
+		<grade>0.82</grade>
+		<notes>Good Grade update I</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>10010800</student_no>
+		<course_no>*</course_no>
+		<registration_no>205</registration_no>
+		<type>2</type>
+		<grade>0.92</grade>
+		<notes>Good Grade update II</notes>
+	</transaction>
+</student_update>
